@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1c377bc.css",
-    "main.js": "/static/js/main.bb38c194.js",
-    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
-    "static/media/volleyball.jpg": "/static/media/volleyball.c062dbf642b5b3471aa0.jpg",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/volleyball.md": "/static/media/volleyball.2852b3b8f9cad3debdbc.md",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.b1c377bc.css.map": "/static/css/main.b1c377bc.css.map",
-    "main.bb38c194.js.map": "/static/js/main.bb38c194.js.map",
-    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/Web/static/css/main.cdfe8486.css",
+    "main.js": "/Web/static/js/main.47c389fa.js",
+    "static/js/453.ace21015.chunk.js": "/Web/static/js/453.ace21015.chunk.js",
+    "static/media/volleyball.jpg": "/Web/static/media/volleyball.c062dbf642b5b3471aa0.jpg",
+    "static/media/leaf.png": "/Web/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Web/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Web/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Web/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Web/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Web/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Web/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Web/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Web/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/volleyball.md": "/Web/static/media/volleyball.2852b3b8f9cad3debdbc.md",
+    "static/media/avatar.svg": "/Web/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Web/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Web/index.html",
+    "main.cdfe8486.css.map": "/Web/static/css/main.cdfe8486.css.map",
+    "main.47c389fa.js.map": "/Web/static/js/main.47c389fa.js.map",
+    "453.ace21015.chunk.js.map": "/Web/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1c377bc.css",
-    "static/js/main.bb38c194.js"
+    "static/css/main.cdfe8486.css",
+    "static/js/main.47c389fa.js"
   ]
 }
