@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b1c377bc.css",
-    "main.js": "/static/js/main.61d4be52.js",
+    "main.js": "/static/js/main.bb38c194.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/volleyball.jpg": "/static/media/volleyball.c062dbf642b5b3471aa0.jpg",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.b1c377bc.css.map": "/static/css/main.b1c377bc.css.map",
-    "main.61d4be52.js.map": "/static/js/main.61d4be52.js.map",
+    "main.bb38c194.js.map": "/static/js/main.bb38c194.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c377bc.css",
-    "static/js/main.61d4be52.js"
+    "static/js/main.bb38c194.js"
   ]
 }
